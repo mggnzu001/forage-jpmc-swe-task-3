@@ -1,0 +1,282 @@
+repo_name: mggnzu001/forage-jpmc-swe-task-3
+report_id: 6a2d10c0e269b356c25fe45b21892609
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-31T00:21:59+00:00'
+requested_by: jf-forage
+provider: github
+branch: main
+detected_tools_count: 21
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 23.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/datafeed/requirements.txt
+  detection_source: datafeed/requirements.txt
+  last_updated_by: josiahdc
+  last_updated_on: 2022-10-05 20:07:01.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 23.3.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 10.17.60
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.14.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: awesome-typescript-loader
+  description: Awesome TS loader for webpack
+  package_url: https://www.npmjs.com/awesome-typescript-loader
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16085/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 0.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Josiah Chapman
+  last_updated_on: 2022-08-03 06:12:47.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/mggnzu001/forage-jpmc-swe-task-3/blob/main/datafeed/requirements.txt
+  detection_source: datafeed/requirements.txt
+  last_updated_by: josiahdc
+  last_updated_on: 2022-10-05 20:07:01.000000000 Z
